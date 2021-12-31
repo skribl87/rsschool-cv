@@ -20,4 +20,8 @@
  + VisualStudioCode
  + markdown
  ***
- 
+ ### Language
+
+|Language| Level|
+|---------|-----|
+|English| A2    |
