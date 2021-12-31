@@ -9,3 +9,15 @@
  email:korotkihalexei@gmail.com
  Nickname at discord: skribl87
  [Linkedin](www.linkedin.com/in/aliaskei-karotkikh-0a544943)
+ ***
+ ## Profile
+ I strive to learn and learn new things
+ ## Skills
+ + HTML
+ + CSS
+ + git
+ + VisualStudioCode
+ + VisualStudioCode
+ + markdown
+ ***
+ 
