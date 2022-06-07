@@ -16,13 +16,14 @@
 ## Skills
  + HTML
  + CSS
+ + Sass
  + git
+ + Webpack
  + VisualStudioCode
- + VisualStudioCode
- + markdown
+ + Markdown
 ***
 ### Language
 
 |Language| Level|
 |---------|-----|
-|English| A2    |
+|English| A2+    |
