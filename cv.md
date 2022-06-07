@@ -16,6 +16,7 @@
 ## Skills
  + HTML
  + CSS
+ + Sass
  + git
  + Webpack
  + VisualStudioCode
