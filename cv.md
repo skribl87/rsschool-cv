@@ -1,7 +1,5 @@
-
 # CV
 ## _Aliaksei Karotkikh_
-
 ![myPhoto](https://yt3.ggpht.com/a/AGF-l79m7xMnPf8wM1TzgZVFtj1C_7UKdDUvYYcyDg=s900-c-k-c0xffffffff-no-rj-mo)
 ***
 ## Contact
@@ -23,7 +21,6 @@
  + Markdown
 ***
 ### Language
-
 |Language| Level|
 |---------|-----|
 |English| A2+    |
